@@ -1,2 +1,6 @@
 # U#
-U# Programming Language source code
+Soon
+## Progress
+  Base Lexer         | Finished
+  Base Parser        | Work In Pogress
+  Base Runtime       | Not Started
